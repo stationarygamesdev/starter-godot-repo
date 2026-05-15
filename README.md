@@ -1,6 +1,8 @@
 Simple GODOT starter repo. Goal is to have CI/CD for deployment, as well as testing flows in order to produce more consistent and functional content.
 
-Do not want to have any game specific features but general features might be nice to have wireframes for(main menu/options/control settings etc)/
+Do not want to have any game specific features but general features might be nice to have wireframes for(main menu/options/control settings etc).
+
+Also interested in collecting useful addons, especially around starting a game or gamejams.
 
 ## Deployment
 Currently have workflow for publishing to Itch.io. Expects three action secrects. 
